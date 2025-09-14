@@ -1,2 +1,2 @@
-Modified in first branch
-f1 modified
+content in master
+new content in master
